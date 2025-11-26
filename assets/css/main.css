@@ -949,6 +949,7 @@ html {
 @media (min-width: 1024px) and (max-width: 1239px) {
     .category {
         transform: translateX(-492px);
+        display: none;
     }
 }
 
@@ -1903,3 +1904,4 @@ i.home-product-item__like-icon-fill {
         font-size: 1.3rem;
     }
 }
+
