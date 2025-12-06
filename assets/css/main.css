@@ -921,6 +921,7 @@ html {
         margin-bottom: 20px;
         transform: none;
         left: auto;
+        display: none;
     }
     
     .app__content .col.l-2 {
@@ -1904,4 +1905,5 @@ i.home-product-item__like-icon-fill {
         font-size: 1.3rem;
     }
 }
+
 
